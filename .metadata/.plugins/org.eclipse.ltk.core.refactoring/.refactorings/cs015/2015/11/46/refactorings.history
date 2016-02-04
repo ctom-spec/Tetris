@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;cs015&apos;&#x0A;- Original project: &apos;cs015&apos;&#x0A;- Original element: &apos;cs015/Tetris.tetris1.src.tetris1&apos;" description="Delete element" element1="/&lt;Tetris.tetris1.src.tetris1" element2="/&lt;Tetris.tetris1.src" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1446959604917" subPackages="false" version="1.0"/>
-</session>
