@@ -1,0 +1,16 @@
+package Tetris;
+
+import javafx.scene.layout.BorderPane;
+import javafx.scene.layout.Pane;
+
+public class PaneOrganizer {
+	
+	BorderPane _pane;
+	
+	public PaneOrganizer(){
+		_pane = new BorderPane();
+	}
+	public Pane getRoot(){
+		return _pane; 
+	}
+}
